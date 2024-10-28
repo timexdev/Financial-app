@@ -1,0 +1,10 @@
+.signUp-head h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.signUp-wrapper{
+    margin-top: 80px;
+    border: 2px solid rgb(224, 222, 222);
+    border-radius: 10px;
+    background-color: white;
+}
